@@ -32,7 +32,8 @@
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
     "gulp-flowtype": "^1.0.0",
-    "jest": "^19.0.2"
+    "jest": "^19.0.2",
+    "moment": "^2.0.0"
   },
   "peerDependencies": {
     "moment": "^2.0.0"
